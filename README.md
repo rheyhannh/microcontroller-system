@@ -1,1 +1,2 @@
-"# microcontroller-system" 
+# :wave:Introduction
+This project aims to build a system that functions to switch an LED and light sensor readings involving ESP32 as the microcontroller. With a web service based, therefore the flask framework is used as a web service routing point by using a MySQL database as data storage. To display the website using PHP, HTML and CSS. The LED can later be turned on and off via the web along with the LED status and the light intensity sensor readings.
